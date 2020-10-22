@@ -26,7 +26,6 @@
         }
     },
     "provide": {
-        "psr/cache": "^1.0.1",
         "psr/cache-implementation": "1.0"
     },
     "license": "MIT"
